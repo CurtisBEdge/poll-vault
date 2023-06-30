@@ -1,3 +1,6 @@
+This was the second group project that we completed during the Eyup course. This app lets admins create polls for the users to vote on. This was a full stack project, with React on the front end and Node.js on the back end, using Express and MongoDB. Again, we were working with 4 teams pair coding and it was completed in 1 sprint of a week. I think the fact that we managed to create both front and back ends shows how much we'd developed our coding skills and how much we'd improved as a team, as this was done only a few weeks after our first group project.
+
+
 # MERN Template
 
 ### By Andrew Charlesworth
